@@ -9,10 +9,10 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Window = WindUI:CreateWindow({
     Folder = "master forsaken",
     Title = "master forsaken",
-    Icon = "moon",
+    Icon = "Dark",
     Author = "master forsaken",
     Theme = "Light",
-    Size = UDim2.fromOffset(450, 420),
+    Size = UDim2.fromOffset(500, 420),
     HasOutline = true,
 })
 
